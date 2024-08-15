@@ -1,0 +1,10 @@
+DATA OF ALL THE STUDENTS
+
+NAME                          ROLL      REGISTRATION   HSC GPA        B_GPA     E_GPA     P_GPA     M_GPA     C_GPA     BIO_GPA     ICT_GPA
+RAKIB RAZ                     123       45678          4.00           4.00      3.50      5.00      3.50      3.50      3.00        3.50        
+TAMIM                         124       5678           4.42           4.00      5.00      4.00      4.00      3.50      4.00        4.00        
+FARDIN                        125       334567         4.50           4.00      3.50      3.50      3.00      5.00      5.00        5.00        
+DATA OF ALL THE STUDENTS
+
+NAME                          ROLL      REGISTRATION   HSC GPA        B_GPA     E_GPA     P_GPA     M_GPA     C_GPA     BIO_GPA     ICT_GPA
+IMTIAZ                        126       67878          5.00           4.00      4.00      5.00      5.00      5.00      5.00        5.00        
